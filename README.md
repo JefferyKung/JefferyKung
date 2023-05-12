@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a proficient software developer with JavaScript skills and knowledge of frameworks such as React and Node.js. I also have experience as an associate project manager in a digital marketing firm. I worked closely with clients to plan and execute effective and creative social media campaigns and posts. That's why I understand concepts like SEO and the needs of our target audience. I can use code to create full-stack websites that meet marketing objectives. I have a solid ability to solve problems and learn new technologies quickly. I am seeking an opportunity to join a dynamic and collaborative team that values quality and creativity. I would love to work together and bring ideas to life!
+I am a proficient software developer with JavaScript skills and knowledge of frameworks such as React and Node.js. I also have experience as an associate project manager in a digital marketing firm. I worked closely with clients to plan and execute effective and creative social media campaigns and posts. That's why I understand concepts like SEO and the needs of our target audience.  
+
+I can use code to create full-stack websites that meet marketing objectives. I have a solid ability to solve problems and learn new technologies quickly. I am seeking an opportunity to join a dynamic and collaborative team that values quality and creativity. I would love to work together and bring ideas to life!
 
 <!--
 **JefferyKung/JefferyKung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
